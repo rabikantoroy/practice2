@@ -1,0 +1,4 @@
+y = 10
+x = 100
+sum = x+y
+print(sum)
